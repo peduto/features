@@ -13,5 +13,11 @@ num2a = 14.23
 print("Subtração de dois numeros reais é:")
 print(num1a-num2a)
 
+#Multiplicação
 
+num1b = 12.23
+num2b = 5.67
+
+print("Multiplicação de dois numeros reais é:")
+print(num1b*num2b)
 
